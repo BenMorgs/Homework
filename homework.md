@@ -14,3 +14,6 @@ Git push <Name> master
 Touch <Name>  
 Mkdir  
 cd <location>
+
+## Git ignore explanation
+A gitignore is a file that is used to determine which files and directories to ignore  
